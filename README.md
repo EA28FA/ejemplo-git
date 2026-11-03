@@ -1,2 +1,2 @@
-# ejemplo-git
+# rep-git-pull
 Repositorio-p
